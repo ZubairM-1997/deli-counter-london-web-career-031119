@@ -10,8 +10,7 @@ def line(array)
   end 
 end 
 
-def take_a_number()
-end 
+
 
 
 
@@ -22,7 +21,6 @@ def now_serving()
     while i < line_length
     katz_deli.shift()
     puts "Currently serving #{katz_deli[i]}"
-    k
     i += 1 
   end 
 end 

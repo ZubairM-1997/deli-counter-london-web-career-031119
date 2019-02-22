@@ -19,7 +19,7 @@ def now_serving()
   if line_length == 0 
     puts "There is nobody waiting to be served!"
   else if line_length != 0 
-    while 
+    while i < line_length
   
 
 

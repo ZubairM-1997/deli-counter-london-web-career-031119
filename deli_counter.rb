@@ -18,7 +18,7 @@ end
 def now_serving() 
   if line_length == 0 
     puts "There is nobody waiting to be served!"
-  else if 
+  else if line_length !
   
 
 

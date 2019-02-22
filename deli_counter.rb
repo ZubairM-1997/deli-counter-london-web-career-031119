@@ -20,7 +20,7 @@ def now_serving()
     puts "There is nobody waiting to be served!"
   else if line_length != 0 
     while i < line_length
-    
+    puts "Currently serving #{"
     
   
 

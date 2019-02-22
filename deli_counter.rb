@@ -3,7 +3,14 @@ i = 0
 line_length = katz_deli.size 
 
 def line(array)
-  while i < line_length
+  loop do 
+    if line_length == 0 
+      puts "The line is currently empty."
+    end 
+  end 
+end 
+
+def take_a_number()
   
 
 
